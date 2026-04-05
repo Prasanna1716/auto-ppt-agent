@@ -1,0 +1,6 @@
+streamlit
+python-pptx
+langchain
+huggingface_hub
+requests
+python-dotenv
